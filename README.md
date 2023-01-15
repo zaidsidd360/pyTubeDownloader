@@ -1,5 +1,7 @@
 # pyTubeDownloader
 A basic windows app to download youtube videos built with Tkinter and CTkinter
 
-<!-- [Download here]("./dist/main.exe") -->
-<a id="raw-url" href="https://raw.githubusercontent.com/zaidsidd360/pyTubeDownloader/master/dist/main.exe">Download FILE</a>
+### Steps to download
+1. Go to dist
+2. Open main
+3. Click "Download file" on the top right.
